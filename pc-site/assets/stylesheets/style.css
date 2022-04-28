@@ -1,5 +1,5 @@
 @charset "UTF-8";
-
+ 
 img {
     width: 100%;
 }
@@ -40,12 +40,14 @@ img {
     transition: 0.3s;
 }
 
-.nav:hover {
+.nav_link:hover {
     opacity: 0.5;
 }
 
 .hero {
     height: 500px;
+    background-image: url("../images/hero.jpg");
+    background-size: cover;
 }
 
 .main {
