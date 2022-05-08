@@ -34,13 +34,13 @@ img {
     margin-left: 30px;
 }
 
-.nav_link > li {
+.nav_list {
     color: #333;
     text-decoration: none;
     transition: 0.3s;
 }
 
-.nav_link:hover {
+.nav_list:hover {
     opacity: 0.5;
 }
 
